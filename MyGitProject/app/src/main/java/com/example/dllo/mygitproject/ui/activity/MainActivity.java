@@ -1,7 +1,9 @@
-package com.example.dllo.mygitproject;
+package com.example.dllo.mygitproject.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.dllo.mygitproject.R;
 
 public class MainActivity extends AppCompatActivity {
 
